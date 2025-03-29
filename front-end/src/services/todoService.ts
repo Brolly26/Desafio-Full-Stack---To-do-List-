@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const api = axios.create({
-  baseURL: "http://localhost:3000/todos"
+  baseURL: "https://desafio-full-stack-to-do-list-production.up.railway.app/todos"
 });
 
 export interface Todo {
