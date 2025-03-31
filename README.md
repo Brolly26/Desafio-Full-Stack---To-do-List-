@@ -32,7 +32,7 @@ Uma aplicação full stack para gerenciamento de tarefas com:
 
 - **Frontend:** Vue 3, Vite, Tailwind CSS, Axios
 - **Backend:** Node.js, Express, MySQL
-- **Banco:** MySQL (com dump `.sql`)
+- **Banco:** MySQL
 - **Deploy:** Vercel (frontend) e Railway (backend)
 
 ---
